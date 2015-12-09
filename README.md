@@ -1,11 +1,14 @@
 # sunhuawen
-#
-include <string>
+#include <string>
+
 using namespace std;
 
 class Book
+
 {
+
 private:
+
 	string Book_name; //书名
 	string Book_num;  //条形码
 	int Sum;  //馆藏数量

@@ -3,10 +3,13 @@
 class Login
 
 {
+
 public:
+
 	string Zhang_Hao;  //帐号
 	string Mi_Ma;   //密码
 public:
+
 	Login()
 	{
 		Zhang_Hao="";
